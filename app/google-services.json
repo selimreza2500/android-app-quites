@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86944173463",
+    "project_id": "quotes-787ed",
+    "storage_bucket": "quotes-787ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86944173463:android:2c5822d1d77cbfd17c88d2",
+        "android_client_info": {
+          "package_name": "com.selim.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86944173463-ppm0gtuk8cromssbhfqus7g1gdiprmrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selim.quotes",
+            "certificate_hash": "b67461f3dfaaa5f368c8e1ddb6f193e4c5b696f4"
+          }
+        },
+        {
+          "client_id": "86944173463-ach8s13rod6fmiupqvf7fv6t9mh9pd8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6A1u7uLy1XFCcvfoF885N0frIS9mZJnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86944173463-ach8s13rod6fmiupqvf7fv6t9mh9pd8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
